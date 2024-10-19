@@ -1,1 +1,2 @@
 *.xzm filter=lfs diff=lfs merge=lfs -text
+*.AppImage filter=lfs diff=lfs merge=lfs -text
