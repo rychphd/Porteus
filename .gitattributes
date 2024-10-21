@@ -1,2 +1,3 @@
-*.xzm filter=lfs diff=lfs merge=lfs -text
-*.AppImage filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a6601c853f2841004b5b0690076b4fdc0734598f5a7c3e87f121c5b3ed4a11a
+size 339
